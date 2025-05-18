@@ -1,0 +1,93 @@
+{
+    "image": "b056b7d8-8805-4dba-b7c8-7407ec1e9353.jpg",
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.9551,
+            "bbox": [
+                418,
+                0,
+                639,
+                312
+            ]
+        },
+        {
+            "class_id": 32,
+            "class_name": "sports ball",
+            "confidence": 0.8893,
+            "bbox": [
+                310,
+                114,
+                376,
+                181
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.7122,
+            "bbox": [
+                208,
+                207,
+                236,
+                282
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.6275,
+            "bbox": [
+                402,
+                214,
+                428,
+                282
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.5726,
+            "bbox": [
+                607,
+                235,
+                625,
+                279
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.5683,
+            "bbox": [
+                562,
+                226,
+                598,
+                280
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.5656,
+            "bbox": [
+                185,
+                199,
+                215,
+                277
+            ]
+        },
+        {
+            "class_id": 33,
+            "class_name": "kite",
+            "confidence": 0.5103,
+            "bbox": [
+                296,
+                172,
+                305,
+                182
+            ]
+        }
+    ]
+}

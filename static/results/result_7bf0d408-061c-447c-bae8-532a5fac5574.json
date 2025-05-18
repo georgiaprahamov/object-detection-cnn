@@ -1,0 +1,170 @@
+{
+    "image": "7bf0d408-061c-447c-bae8-532a5fac5574.jpg",
+    "detections": [
+        {
+            "class_id": 2,
+            "class_name": "car",
+            "confidence": 0.904,
+            "bbox": [
+                69,
+                342,
+                260,
+                397
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.8244,
+            "bbox": [
+                590,
+                324,
+                619,
+                379
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.8035,
+            "bbox": [
+                263,
+                328,
+                291,
+                377
+            ]
+        },
+        {
+            "class_id": 2,
+            "class_name": "car",
+            "confidence": 0.7999,
+            "bbox": [
+                370,
+                333,
+                401,
+                353
+            ]
+        },
+        {
+            "class_id": 9,
+            "class_name": "traffic light",
+            "confidence": 0.7758,
+            "bbox": [
+                24,
+                162,
+                43,
+                203
+            ]
+        },
+        {
+            "class_id": 9,
+            "class_name": "traffic light",
+            "confidence": 0.7748,
+            "bbox": [
+                0,
+                165,
+                19,
+                201
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.7631,
+            "bbox": [
+                27,
+                324,
+                44,
+                376
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.7351,
+            "bbox": [
+                471,
+                325,
+                491,
+                374
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.7024,
+            "bbox": [
+                415,
+                326,
+                442,
+                378
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.6057,
+            "bbox": [
+                293,
+                330,
+                309,
+                377
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.5952,
+            "bbox": [
+                329,
+                328,
+                344,
+                371
+            ]
+        },
+        {
+            "class_id": 9,
+            "class_name": "traffic light",
+            "confidence": 0.5566,
+            "bbox": [
+                457,
+                230,
+                466,
+                252
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.5507,
+            "bbox": [
+                626,
+                325,
+                639,
+                368
+            ]
+        },
+        {
+            "class_id": 0,
+            "class_name": "person",
+            "confidence": 0.5384,
+            "bbox": [
+                355,
+                335,
+                376,
+                374
+            ]
+        },
+        {
+            "class_id": 1,
+            "class_name": "bicycle",
+            "confidence": 0.5067,
+            "bbox": [
+                502,
+                345,
+                540,
+                372
+            ]
+        }
+    ]
+}

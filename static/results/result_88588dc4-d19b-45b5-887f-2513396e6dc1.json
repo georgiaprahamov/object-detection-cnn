@@ -1,0 +1,38 @@
+{
+    "image": "88588dc4-d19b-45b5-887f-2513396e6dc1.jpg",
+    "detections": [
+        {
+            "class_id": 1,
+            "class_name": "bicycle",
+            "confidence": 0.9461,
+            "bbox": [
+                125,
+                132,
+                566,
+                421
+            ]
+        },
+        {
+            "class_id": 16,
+            "class_name": "dog",
+            "confidence": 0.9443,
+            "bbox": [
+                131,
+                222,
+                311,
+                541
+            ]
+        },
+        {
+            "class_id": 7,
+            "class_name": "truck",
+            "confidence": 0.8174,
+            "bbox": [
+                465,
+                73,
+                690,
+                171
+            ]
+        }
+    ]
+}

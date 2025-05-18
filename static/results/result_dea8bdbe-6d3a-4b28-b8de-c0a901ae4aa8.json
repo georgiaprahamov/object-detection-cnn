@@ -1,0 +1,49 @@
+{
+    "image": "dea8bdbe-6d3a-4b28-b8de-c0a901ae4aa8.jpg",
+    "detections": [
+        {
+            "class_id": 56,
+            "class_name": "chair",
+            "confidence": 0.9564,
+            "bbox": [
+                67,
+                223,
+                305,
+                479
+            ]
+        },
+        {
+            "class_id": 56,
+            "class_name": "chair",
+            "confidence": 0.9421,
+            "bbox": [
+                360,
+                176,
+                533,
+                394
+            ]
+        },
+        {
+            "class_id": 56,
+            "class_name": "chair",
+            "confidence": 0.9385,
+            "bbox": [
+                234,
+                201,
+                442,
+                460
+            ]
+        },
+        {
+            "class_id": 56,
+            "class_name": "chair",
+            "confidence": 0.682,
+            "bbox": [
+                0,
+                314,
+                81,
+                479
+            ]
+        }
+    ]
+}
